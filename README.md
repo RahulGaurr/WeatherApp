@@ -5,5 +5,5 @@ It is a weather forecast app that will fetch the weather of any location in the 
 
 # Tech Stacks Used:
 I used Javascript, fetch API, HTML, CSS and Bootstrap library to achieve the final result.
-![Screenshot (192)]("C:\Users\Rahul\Pictures\Screenshots\Screenshot (1929).png")
+![Screenshot (192)]("https://github.com/RahulGaurr/WeatherApp/blob/main/Screenshot%20(1929).png?raw=true")
 

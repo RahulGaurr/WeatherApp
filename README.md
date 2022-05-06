@@ -6,4 +6,5 @@ It is a weather forecast app that will fetch the weather of any location in the 
 # Tech Stacks Used:
 I used Javascript, fetch API, HTML, CSS and Bootstrap library to achieve the final result.
 
-<img scr= "https://github.com/RahulGaurr/WeatherApp/blob/main/Screenshot%20(1929).png?raw=true">
+
+<img src="https://github.com/RahulGaurr/WeatherApp/blob/main/Screenshot%20(1929).png">
